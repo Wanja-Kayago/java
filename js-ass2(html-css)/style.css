@@ -112,5 +112,5 @@ background-color: palegoldenrod;
     margin-top: 20px;
 }
 #body{
-            @media all and (max-width:480px)
+    @media all and (max-width:480px){}
 }
